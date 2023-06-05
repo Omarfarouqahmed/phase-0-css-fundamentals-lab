@@ -1,5 +1,30 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  display: ;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+figcaption {
+  display: block;
+  font-size: smaller;
+  margin-left: auto;
+  margin-right: auto;
 }
